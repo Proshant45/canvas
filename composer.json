@@ -1,5 +1,5 @@
 {
-    "name": "austintoddj/canvas",
+    "name": "proshant45/canvas",
     "description": "A Laravel publishing platform",
     "keywords": [
         "blog",
@@ -25,6 +25,7 @@
         "ext-json": "*",
         "laravel/framework": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0"
     },
+
     "require-dev": {
         "laravel/legacy-factories": "^1.0",
         "mockery/mockery": "^1.4",
